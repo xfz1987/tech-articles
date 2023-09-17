@@ -1,5 +1,14 @@
 # Tech Articles
 
+## Function Programming
+- [validate-state-hook with fp-ts](https://juejin.cn/post/7279295129348735034)
+- [函数式编程-入门](https://juejin.cn/post/7229172559571648572)
+- [函数式编程-进阶](https://juejin.cn/post/7229193250903916604)
+- [函数式编程 - fp-ts 初探](https://juejin.cn/post/7229593695652806693)
+
+## NextJs
+- [NextJs 从入门放弃](https://juejin.cn/post/7265210595912581159)
+
 ## Tools
 - [react-decorator-track 解耦-埋点方案](https://juejin.cn/post/6844903891411140616)
 - [jotai + jotai-immer + jotai-signal 初探](https://juejin.cn/post/7230826178914746429)
@@ -14,12 +23,6 @@
 - [CSS3 动画系列](https://juejin.cn/column/7025533076071514126)
 - [CSS3 动画之2D动画基础](https://juejin.cn/post/7025532674156544014)
 - [CSS3 动画之3D动画基础](https://juejin.cn/post/7025617287906328584)
-
-
-## Function Programming
-- [函数式编程-入门](https://juejin.cn/post/7229172559571648572)
-- [函数式编程-进阶](https://juejin.cn/post/7229193250903916604)
-- [函数式编程 - fp-ts 初探](https://juejin.cn/post/7229593695652806693)
 
 
 ## Broswers & V8
